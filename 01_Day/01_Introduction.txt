@@ -1,0 +1,45 @@
+1. Introduction to Java
+
+1.1 Why Java
+    Used on 60B Devices
+    Wide Usage (Web Application, Enterprise Software, Mobile Application)
+    High Paying and lot of Jobs
+    Object Oriented
+    Rich APIs and Community Support
+
+1.2 What is Programming Language
+    A way of communication between human and computer.
+
+1.3 What is an Algorithm
+    Step by Step instructions of a process.
+
+1.4 What is Syntax
+    Rules of writing the programming language.
+
+1.5 History of Java
+    Developed by James Gosling at Sun Microsystems. Originally names 'Oak' and later changed to 'Java'.
+
+1.6 Why Java is/was Needed
+    Write Once, Run Anywhere. Cross-Platform compatibility. Both Compiled and Interpreted.
+        Code -> Compiled -> Byte Code -> JVM -> Machine Code
+
+1.7 Why was Renamed to Java
+    Backward and Forward compatibility. James Gosling was fond of coffee beans from Java island. The coffee retains it tastes even after cooking it multiple times. Mainly Golsing wanted Backward Compatibility.
+
+1.8 Magic of Byte Code
+    Source Code -> Compiler -> Byte Code -> JVM(Different for Different Machines)
+
+1.9 Java Buzzwords
+    Robust: Running smooth constatntly
+            Strong memory management, exception handling, type-checking mechanism, prevents system crashes
+    
+    Multithreaded: Ability of CPU to execute multiple threads concurrently
+
+    Architecture Neutral: Compiled byte code can be run on any machine with the help of JVM, regardless of the underlying hardware architecture.
+
+    Interpreted(High Performance): JIT (Just-In-Time) compiler converts byte code to machine code at run time improving performance.
+
+    Distributed: Inherently distributed and designed to facilitate network based application, development and interaction.
+
+1.10 Object Oriented Programming
+    Data Oriented approach
