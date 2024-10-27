@@ -1,0 +1,78 @@
+2. Java Basics
+
+2.1 Installation and SetUp
+    Install JDK (Download the latest version)
+    SetUp path in environment variables
+    To Verify (javac -version)
+
+2.2 Basic Java code
+    import java.lang.*;
+    public class FirstProgram {
+        public static void main (String args []) {
+            System.out.println("Hello World");
+        }
+    }
+
+2.3 Compiling and Running Java Program
+    Program.java -> (Java Compiler) -> Program.class -> (JVM) -> Output
+    eg.java -> javac eg.java -> .classfile (bytecode) -> java eg.java -> output
+
+2.4 Anatomy of a class
+    public: accessed by all
+    class: defines the class
+    FirstProgram: name of the class (user's choice)
+    static: can be called without instantiating.
+    void: function is not returning anything
+    main: name of the function.
+    String[] args: string array with name args
+    System.out.println: toprint something on console
+    semicolon(;): marks end of a sentence.
+
+    *Note: Above written details are not actual meaning of keywords in Java. It is just written in short format for basic understanding.
+
+2.5 File Extensions
+    .java: Source Code (For Users: May be Edited)
+    .class: Byte Code (For JVM: Not to be Edited)
+
+2.6 JDK vs JVM vs JRE
+    JDK:    SDK required to develop Java applications.
+            Includes JRE, an interpreter (java), compiler (javac), a document generator (javadoc) and other development tools.
+            JDK is a superset of JRE.
+    
+    JRE:    Part of JDK but can be downloaded seperately.
+            Provides the libraries, JVM and other components to run application.
+            Does not have tools and utilities for developers like compilers.
+
+     JVM:   Part of JRE and responsible for executing byte code.
+            Ensures write once, run anywhere.
+            Platform dependent. JVM is different for different machines.
+
+2.7 Showing Output
+    System.out.print("One"); prints on same line
+    System.out.print("Two"); prints on same line
+    System.out.print("Three"); prints on same line
+
+    System.out.println("One"); prints on existing line and then moves the control to new line
+    System.out.println("Two");
+    System.out.println("Three");
+
+    System.out.println(); new line
+
+2.8 Importance of the "main" method
+    
+    public static void main (String args []): main signature and must exactly be the same.
+        
+        Entry point of program so that JVM understands that from where the execution is to be started. Without main method JVM does not know from where to start execution. The main method must be public because so that it is accessible by JVM. It should be static so that it can be called without creating object of the class.
+
+2.9 What is IDE
+    Integrated Development Environment (IDE)
+    Software designed for developer's efficiency
+    Unified workspace
+    Syntax highlighting that increases code readability
+    
+    
+
+
+
+
+
