@@ -20,3 +20,5 @@ Unit 2: An hour of content where I learnt and Wrote first program to print "Hell
 -----------------
 ## Day 2 (28/10-2024)
 Unit 3: Cleared various concept in the first hour such as Data Types and Variables in Java. How RAM comes into th epicture during memory allocation and Escape Sequences. Then, naming convention of variables and rules to be followed while naming the variables.
+
+Unit 4: This part consist of how to take user input in Java and also behaviour of the scanner class after taking an integer input as it does read next lines so we need to call nextLine() so that all the code can be processed.

@@ -1,0 +1,60 @@
+1. What are variables?
+    Variables are like containers used for storing data values.
+    Variables have two parts, variable name and variable value.
+    All variables are not of same size.
+
+2. What is Memory Allocation?
+    Here memory simply means RAM. Whenever we create a variable a small part of memory is assigned so that the value does not get lost and also variable has the name which helps us to reference the memory address.
+        
+        Eg: int a = 5;
+
+3. What is Variable Declaration and Initialization?
+    int a = 5;
+        int: data type
+        a: variable name
+        =: assignment operator. Assigns value present on the right side to the left side.
+        5: value to be stored in variable
+
+4. Primitive Data Types in Java
+
+    Data Type       Size        Default Value
+
+    byte            1 byte      0
+    short           2 byte      0
+    int             4 byte      0
+    long            8 byte      0L
+    char            2 byte      '\u0000'
+    float           4 byte      0.0f
+    double          8 byte      0.0d
+    boolean         1 byte      false
+
+5. Naming Conventions of Variables
+    camelCase: myVariableName
+    snake_case: my_variable_name
+    kebab-case: my-variable-name
+
+6. Rules for Naming Variable
+    These are allowed: [A-Z][a-z][0-9][_, $]
+    Must not start with a number
+    Names are case sensetive
+    Can not use reserved keywords directly like (public, class, void, static, etc.)
+
+7. What are Literals in Java?
+    int a = 5;
+        Here 5 is a literal as it is a constant value of a declared in the program.
+
+8. What are Keyword in Java?
+    Keywords are Java reserved words which cannot be used in our program for any purpose. These words are alreday defined in Java to carry out some specific task.
+
+9. What are Escape Sequences?
+    \t: tab
+    \b: backspace
+    \n: new line
+    \': single quote
+    \": double quote
+    \\: backslash
+
+10. User Input in Java using Scanner class
+    int number = sc.nextInt(); 
+    float decimal = sc.nextFloat();
+    String name = sc.nextLine();
