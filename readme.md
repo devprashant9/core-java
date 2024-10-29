@@ -21,4 +21,13 @@ Unit 2: An hour of content where I learnt and Wrote first program to print "Hell
 ## Day 2 (28/10-2024)
 Unit 3: Cleared various concept in the first hour such as Data Types and Variables in Java. How RAM comes into th epicture during memory allocation and Escape Sequences. Then, naming convention of variables and rules to be followed while naming the variables.
 
-Unit 4: This part consist of how to take user input in Java and also behaviour of the scanner class after taking an integer input as it does read next lines so we need to call nextLine() so that all the code can be processed.
+Unit 3: Started of with user input in java and a program to take all kinds of data from user input. 
+
+------------
+## Day 3 (29/10-2024)
+Unit 3: Started off with type casting and a program to implement it.
+
+Unit 4: This unit consist of different kinds of operator in Java like assignment operator, arithmetic operator. Order of operation is very important to consider if we have same operators repeated multiple times in a expression. It executes everything starting from left to right. Then we have short hand operator which is just a short cut for arithmetic and other operators to program more efficiently. Next, we moved to unary operators, increment and decrement along with a practise program. After that we solved almost 7 practise problem to get better grasp on these fundamental stuff.
+
+
+Unit 4: After that we were good to with if-else part and along with it I covered other operators such as logical operator, relational operator and then solved practise problem to end today's session as time was up.
