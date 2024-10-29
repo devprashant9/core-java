@@ -1,0 +1,11 @@
+
+    Relational Operators: Always returns a boolean value
+
+Equality: ==
+Inequality: !=
+Greater Than: >
+Less Than: <
+Greater Than or Equal: >=
+Less Than or Equal: <=
+
+    Note*: Order is less than arithmetic operator

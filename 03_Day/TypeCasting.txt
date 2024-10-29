@@ -1,0 +1,8 @@
+
+Type Conversion and Casting
+
+1. Automatic Type Casting / Implicit / Widening
+    byte -> short -> int -> long -> float -> double
+
+2. Narrow Type Casting / Explicit
+    double -> float -> long -> int -> short -> byte

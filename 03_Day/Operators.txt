@@ -1,0 +1,40 @@
+
+    Operators in Java
+
+1. Assignment Operator
+    Assigns right-hand opearnd value to left-hand operand.
+        Eg: int a  = 5;
+
+2. Arithmetic Operators
+
+        Operators       Meaning             Example        Result
+        +               Addition            4 + 2          6
+        -               Subtraction         4 - 2          2
+        *               Multiplication      4 * 2          8
+        /               Division            4 / 2          2
+        %               Modulus             4 % 2          0
+            *Note: Modulus operator returns remainder after division
+
+3. Order of Operator
+    Basically BODMAS rule is followed
+    In case of single operator repeated multiple times in a expression, it simply evaluates froml left to right.
+        Eg: 9/3/3 = 1 is done in following way ((9/3) / 3) = 1
+
+4. Short Hand Operator
+
+    Value       Short Hand      Meaning     Result
+    a           +=              a+ = 5      a = a + 5
+    a           -=              a- = 5      a = a - 5
+    a           *=              a* = 5      a = a * 5
+    a           /=              a/ = 5      a = a / 5
+    a           %=              a% = 5      a = a % 5
+
+5. Unary Operator
+
+    Operator        Description                                 Example
+    -               Converts +ve value to -ve value             x = -y
+    Pre-Increment   Increments value by 1 first                 x = ++y
+    Pre-Decrement   Decrements value by 1 first                 x = --y
+    Post-Increment  Uses Current Value then decrements by 1     x = y++
+    Post-Decrement  Uses Current Value then decrements by 1     x = y--
+

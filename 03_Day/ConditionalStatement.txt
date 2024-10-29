@@ -1,0 +1,26 @@
+
+    Conditional Statement
+
+1. if
+    if(condition) {
+        //block of code executes if, if-condition is true
+    }
+
+2. if-else
+    if(condition) {
+        //block of code executes if, if-condition is true
+    }
+    else {
+        //block of code executes if, if-condition is false
+    }
+
+3. if - else if - else
+    if(condition) {
+        //block of code
+    } else if(condition) {
+        //block of code
+    } else if(condition) {
+        //block of code
+    } else {
+        //block of code. This else block can be omitted
+    }
