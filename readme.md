@@ -31,3 +31,14 @@ Unit 4: This unit consist of different kinds of operator in Java like assignment
 
 
 Unit 4: After that we were good to with if-else part and along with it I covered other operators such as logical operator, relational operator and then solved practise problem to end today's session as time was up.
+
+------------
+## Day 4 (30/10-2024)
+Unit 4: Today also we are continuing with the same unit where in the first part we learnt precedence of operator and their associativity and made notes related to the same and then moved on to Number System. After which we started Bitwise Operator. The video only focuses on theory part for better clarity and understanding. Bitwise Operator are bit confusing to understand and they aren't used on taht scale. However, it is used in DSA which is important for me so I need to explore it from other resources. Then we perform a few simple programs to implement Bitwise Operators and a practical program to find "Even Odd Using Bitwise Operator".
+
+
+Unit 5: First we learnt about comments in java. Next, we moved to loops in java and different types of loop and their implementation in java and at the same time we covered functions in java too. Skipped this part a little as it was very theoretical. Jumped this part basically just like function 😂. After this I solved the Challenge part which has almost 10 questions.
+
+>> Struggle: Invested almost 40 minutes on GCD and LCM Program to properly understand the approach to solve it and why GCD should be used to find LCM and the overflow problem as LCM becomes very large. Tested both the programs for all general possible cases.
+
+Invested an extra hour today to solve all challenge questions using functions. It was almost a session for 4 continious hours with no break. Will get completed by tomorrow. Cheers 🍻.
