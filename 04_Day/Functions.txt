@@ -1,0 +1,13 @@
+Functions or Methods in Java.
+
+Block of resuable Code
+Encourages code reusability and follows DRY principal
+Organizes code and performs specific task
+
+1. Syntax of Function
+
+    public int sum(int num1, int num2){
+        int sum = 0;
+        sum = num1 + num2;
+        return(sum);
+    }

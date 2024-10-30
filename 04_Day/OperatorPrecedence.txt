@@ -1,0 +1,29 @@
+
+    1. Operator Precdence: It determines evaluation order of operators.
+
+    2. It determines order of operation with the same precdence.
+
+
+    Operator Type       Category                            Precedence                          Associativity
+1.  Unary               1. Postfix                          a++, a--                            Right to Left
+                        2. Prefix                           ++a, --a, +a, -a, ~, !              Right to Left
+
+2.  Arithmetic          1. Multiplication                   *, /, %                             Left to Right
+                        2. Addition                         +, -                                Left to Right
+
+3.  Shift               1. Shift                            <<, >>, >>>                         Left to Right
+
+4.  Relational          1. Comparison                       <, >, <=, >=                        Left to Right
+                        2. Equality                         ==, !=                              Left to Right
+
+5.  Bitwise             1. Bitwise AND                      &                                   Left to Right
+                        2. Bitwise Exclusive OR             ^                                   Left to Right
+                        3. Bitwise Inclusive OR             |                                   Left to Right
+
+6.  Logical             1. Logical AND                      &&                                  Left to Right
+                        2. Logical OR                       ||                                  Left to Right
+
+7.  Ternary             1. Ternary                          ? :                                 Right to Left
+
+8.  Assignment          1. Assignment                       =, +=, -=, &=, >>=, <<=             Right to Left
+

@@ -1,0 +1,14 @@
+
+1. AND Operator (&): Performs on two Integers. Each bit of the output is 1 if the corresponding bits of both the operands are 1, otherwise 0.
+
+2. OR Operator (I): Performs on two Integers. Each bit of the output is 0 if the corresponding bits of both the operands are 0, otherwise 1.
+
+3. XOR Operator (^): Performs on two Integers. Each bit of the output is 0 if the corresponding bits of operands are different.
+
+4. NOT Operator (~): Performs on bitwise complement. It inverts the bits of its operand. 0becomes 1 and 1 becomes 0.
+
+5. Left Shift Operator (<<): Shifts the left operand's bits to the left by number of position specified by the right operand, filling the new right most bits with zeroes.
+
+6. Right Shift Operator (>>): Shifts the left operand's bits to the right. If the left operand is positive, zeroes are filled into new left most bits. If the left operand is negative, ones are filled into new left most bits.
+
+

@@ -1,0 +1,18 @@
+
+1. Loops in Java
+        Code that runs multiple times based on a condition.
+        repeated execution of Code
+        loops automate repetetive task
+
+2. Types of Loops
+    while loop
+    do-while loop
+    for loop
+    for-each loop
+
+3. While Loop
+    while(condition) {
+        // Code Block
+    }
+
+
