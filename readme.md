@@ -39,6 +39,13 @@ Unit 4: Today also we are continuing with the same unit where in the first part 
 
 Unit 5: First we learnt about comments in java. Next, we moved to loops in java and different types of loop and their implementation in java and at the same time we covered functions in java too. Skipped this part a little as it was very theoretical. Jumped this part basically just like function 😂. After this I solved the Challenge part which has almost 10 questions.
 
->> Struggle: Invested almost 40 minutes on GCD and LCM Program to properly understand the approach to solve it and why GCD should be used to find LCM and the overflow problem as LCM becomes very large. Tested both the programs for all general possible cases.
+> Struggle: Invested almost 40 minutes on GCD and LCM Program to properly understand the approach to solve it and why GCD should be used to find LCM and the overflow problem as LCM becomes very large. Tested both the programs for all general possible cases.
 
 Invested an extra hour today to solve all challenge questions using functions. It was almost a session for 4 continious hours with no break. Will get completed by tomorrow. Cheers 🍻.
+
+------------
+## Day 5 (31/10-2024)
+Unit 5: In this unit our topic was Array and basic fundamentals of array data structure. How do we declrae arrays, and how to access values in arrays. Size of arrays cannot be changed. Then we practised few programs to get better at array. After that we covered 2D arrays in java with a program to implement it. Then we started with the challenge part to "**END THE FIRST VIDEO 🥳🥳**"
+
+> Completed the Tutorial 1 in just 5 days. It is not normal for a absolute beginner person but however it also has helped me. Like, when you know some stuff you basically skip it but in this challenge I was very focused and watched the entire video at 1.5x and solved all challenges question which has helped me to become patient and consistent at the same time. Not even for a single second I felt like "Oh! I know this let jump to the next section". So the reward is to be "**Patient**" and "**Consistent**" and to be "**Focused**" at the same time in order to learn new things.
+___________________________
