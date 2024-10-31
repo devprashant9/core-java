@@ -1,0 +1,21 @@
+    Arrays in Java
+
+1. What is an Array?
+    List of values stored in contigious memory location.
+    Indexing starts from 0
+    Used for storing multiple values.
+
+
+2. What is Array Memory?
+    float marks = [90, 97, 95, 99, 100] // just example
+
+    memory = [3020, 3024, 3028, 3032, 3036] 
+        so if we have memory address of 1st index we can easily access rest of the elements.
+
+3. Accessing Values => marks[index]
+
+4. Array Syntax
+    int[] myArray = new int[length_of_array]; // user defined array
+    int[] array = {90, 97, 95, 99, 100}; // pre-defined array
+
+5. 2D Arrays in Java
