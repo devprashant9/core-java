@@ -49,3 +49,28 @@ Unit 5: In this unit our topic was Array and basic fundamentals of array data st
 
 > Completed the Tutorial 1 in just 5 days. It is not normal for a absolute beginner person but however it also has helped me. Like, when you know some stuff you basically skip it but in this challenge I was very focused and watched the entire video at 1.5x and solved all challenges question which has helped me to become patient and consistent at the same time. Not even for a single second I felt like "Oh! I know this let jump to the next section". So the reward is to be "**Patient**" and "**Consistent**" and to be "**Focused**" at the same time in order to learn new things.
 ___________________________
+___________________________
+## Day 6 (01/11-2024)
+Unit 6: This unit was completely a theory part with lots of OOPS concepts like:
+1. Classes
+2. Objects
+3. classes vs objects
+4. this keyword
+5. static keyword
+6. new keyword
+7. constructor and its types along with constructor chaining
+8. static vs non-static members and method
+9. garbage collection in java and the finalize method
+10. 10 stack and heap memory related to objects
+11. scopes
+
+Unit 7: More on operators
+1. Ternary Operator
+2. switch case and new way of writing switch case
+3. do-while loop
+4. for-loop
+5. for-each loop (I read it 1st time in java. Already, read in Javascript😂)
+6. break and continue statement
+7. recursion (bit difficult to program but easy to understand)
+
+So, this was all for todays session. Total duration of video is 12 hrs and 7hrs of content has been watched. But the thing is there was lots of theory concepts and I need to practise them. Specially **recursion** and **class and object** programs. Almost got all the topics covered in 6 hrs but these topics needs to be practised on a daily basis to build muscle memory so that these are never forgotten. Will be practising by finding some online resources for much better understanding.
