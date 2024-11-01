@@ -1,0 +1,110 @@
+Classes and Objects
+
+1. Process vs Object Oriented
+    Eg: Conside a banking transaction program in both type.
+
+        Procedural Oriented: customer -> withdraw / deposit / transfer -> update. It is more like a functional approach means focuses on what tasks are to be performed.
+            Also, in POP there are some local data and some global data that is accesssed by all functions.
+
+        Object Oriented: Identifies objects, like what are involved in the system.
+            For Above Eg: Objects could be Customer, Money, Account
+        
+        It first defines behaviour of each individuals i.e. behaviour of objects. So if we can figure out the objects required then we can easily define tasks or functionality related to them.
+            In OOP each object consist of its own data and functions and they access with each other through objects.
+
+2. Instance Variables and Methods
+    Methods defined within a class is known as "Instance Methods"
+    Variables defined within a class is known as "Instance Variables"
+        Eg:
+        class Cat {
+            String name = ""; //instance variable
+            float weight = 0.0f; //instance variable
+            boolean isSleeping = false; //instance variable
+
+            public static void run(){ //instance method
+                System.out.println("The Cat is Running");
+            }
+        }
+    
+    Note*: You can create two seperate files in which one will contain your class program and other file will contain driver program. Also you can do it in the same program.
+
+3. Declaraing Object OR "Use of new Keyword"
+    1. The "new" keyword instantiates a new object of a class.
+        Eg. Scanner sc = new Scanner(System.in);
+            Car ob = new Car();
+
+            // Sacnner or Car is the name of the class
+            // sc or ob is the object name and it can be anything just like variable declaration
+            // new is the keyword that instantiates or creates the object of the class "Scanner or Car"
+            // Scanner(System.in): It is a parameterized constructor that takes an argument "System.in" while in Car() object there is no parameter for the constructor.
+    
+    2. Allocates memory in the heap area
+    3. Returns reference to the created object
+    4. Array is also same. int[] array = new int[10];
+    5. Dynamic Allocation: Allocates memory at run time
+
+4. Object declaration syntax
+    class Student {
+        public static void main(String args []){
+
+            Student ob = new Student(); //must be same name as class name and in the same format
+        }
+    }
+
+5. Using Objects
+    Properties can be accessed using dot(.) operator
+    Eg: 
+    class Student {
+        String name = "Prashant Kumar;
+        public void getName(){
+            System.out.println("Name of the Student is: " +name);
+        }
+        public static void main(String args []){
+
+            Student ob = new Student();
+            ob.getName(); //accessing methods of the object
+        }
+    }
+
+6. Class vs Object
+    Classes are blueprint, like plan of a house.
+    Objects are real representation of the class like the actual house, like physical existence.
+
+      "  We can create n number of objects via a class"
+
+7. The "this" Keyword.
+    1. refers to the current class instance variable
+    2. can be used to call constructor of the same class
+    3. invokes method of current object
+    4. can be passes as an argument in the method
+
+8. The "static" Keyword
+    1. static variable belongs to the class and shared with all instances
+    2. static methods can be caaled without object creation
+    3. static methods and blocks can NOT directly access non-static variables and methods
+    
+    4. The static variable can be accessed in both "static" and "non static" methods. But vice-versa is not allowed directly.
+
+9. What are Constructors
+    1. initilaizes new objects and set initial values to attributes
+    2. same name as the class name
+    3. does not return any values
+    4. automatically called when object of a a class is created
+    5. constructors are 2 types; parametrized and non-parametrized
+    6. constructor chaining means multiple constructor
+    7. class can have multiple constructor
+    8. one constructor can call other constructor by "this" keyword and must be the first statement
+    9. there must be an end point it cannot be infinite
+
+10. Code Blocks in Java
+    {} determines the scope of a code blocks
+
+
+
+static block -> initialization block -> constructor
+
+static block is defined wit static keyword only;
+    EG: static {
+        number++;
+    }
+

@@ -1,0 +1,18 @@
+Instance vs Local Variables
+
+class Athelete {
+    public String; instance variables class scope
+    public double;
+    public int; 
+
+    public Athelete(name, speed, age) {
+        this.atheleteName = name; //local scope
+        this.atheleteSpeed = speed;
+        this.atheleteage = age;
+    }
+
+    public void atheleteRun(){
+        int speed = 100; local variable
+        System.out.println("Athelete Running at Speed: "+speed);
+    }
+}

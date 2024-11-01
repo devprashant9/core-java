@@ -1,0 +1,34 @@
+Garbage Collection and Finalize
+
+1. Automatic process in Java by JVM.
+
+2. If there are any object whose reference is not present in the stack, which means that object is currently not being used, heap marks that address reference and then JVM deallocates the memory of that reference.
+
+3. No manual control fully automatic.
+
+4. Java keeps it objects in a generation wise fashion. JVM keeps looking for garbage after a sepcific intervals of time depending upon some criteria which can be different. This process is known as GCB (Garbage Collection Cycle). The generation is divided into 3 different regions:
+    1. Young: GCB looks frequently in it.
+    2. Old: After fewer usages with young reference is moved to old where GCB check with delay compared to young.
+    3. Permanent: After fewer usages in old generation reference is moved to permanent where GCB check with delay compared to old.
+
+5. Garbage collection occurs in heap memory and impact performance. More the memory more the time GCB cycles takes to check and deallocate memory. When filled gives memory exception.
+
+----------------------------------------------
+
+Square s1 = new Square();
+Square s2 = new Square();
+
+s1 = s2; allocates reference of s1 to s2
+
+now both s1 and s2 points to same object, so original s1 reference is lost which means it is eligible for memory deallocation and GCB removes it from heap.
+
+-------------------------
+Finalize
+
+Before object is garbage collected, the finalize() mathod may be called, giving the object a chance to clean up resources. It is not guranteed to run and usage is discouraged.
+
+Can be optimized indirectly setting unnecesssary objects to null
+
+Syste.gc() call: It suggests that JVM does GCB but not guranteed.
+
+

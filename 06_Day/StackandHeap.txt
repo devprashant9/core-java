@@ -1,0 +1,12 @@
+Stack Memory and Heap Memory
+
+    Stack: Ordered on top of one another. LIFO Structure.
+            methods are allocated in stack memory along with variables. Space becomes empty after the method is executed.
+
+    Heap: No particular order.
+                objects are allocated in heap memory.
+                Refrence are not deleted and remains in memory.
+
+1. Primitive: Memory declared at compile time. Faster to access.
+
+2. Non-Primitive: Memory allocated at run time. Slower than primitive.

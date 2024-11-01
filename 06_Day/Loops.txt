@@ -1,0 +1,19 @@
+1. do-while Loop
+    do {
+        //code block
+    }
+    while(condition);
+
+2. for Loop
+    for(initialization; condition; increment/decrement){
+        //code block
+    }
+
+    for(int i = 0; i <= 10; i++){
+        System.out.println(i);
+    }
+
+3. for-each Loop
+    for(i : iterables) {
+        //code block
+    }

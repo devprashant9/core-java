@@ -1,0 +1,7 @@
+Recursion in Java
+
+1. self calling function: function calling itself
+2. base case: to prevent infinite loop
+3. recursive case: where function makes the recursive call
+4. stack overflow risk: excessive recursion can cause stack overflow errors
+5. problem solving: ideal for solving problem which can be divided into samller problems
