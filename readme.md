@@ -74,3 +74,30 @@ Unit 7: More on operators
 7. recursion (bit difficult to program but easy to understand)
 
 So, this was all for todays session. Total duration of video is 12 hrs and 7hrs of content has been watched. But the thing is there was lots of theory concepts and I need to practise them. Specially **recursion** and **class and object** programs. Almost got all the topics covered in 6 hrs but these topics needs to be practised on a daily basis to build muscle memory so that these are never forgotten. Will be practising by finding some online resources for much better understanding.
+_________________
+## Day 7 (02/11-2024)
+Unit 7: Started day by learning inbuilt Math class in java which is a static class and then took a glimpse of **toString()** which is available for all the objects and it returns **classname@hash** when we access it. Next we moved to String class in java to checkout if string is an object they how are we concatenating it using **(+)** operator and why this object dont need **new** keyword to instantiate. Also we learn't about **String Pool** in Heap Memory. Every object has **equals()** method for comparision. Then we moved on to **String vs String Builder vs String Buffer** and last discussed about the **final** keyword and moved on to programming challenge.
+
+Unit 8: Most awaited thing OOPs concept. Firstly a small overview of following topics
+1. Encapsulation
+2. Abstraction
+3. Inheritence
+4. Polymorphism
+
+Then we started with **packages and import** in java and why it is used how it is used. Next our topic was **Access Modifiers**.
+1. public
+2. private
+3. protected
+4. default
+
+And, finally to **getter and setter methods** to end Encapsulation.
+>While running programs in packages always run from source folder if using VS Code or else it will keep showing error. Basically programs which includes package name also, run using complete path like shown below.
+
+- For Eg:
+    - **javac .\PackagesDemo\Package2\GetterTest.java**
+    - **java .\PackagesDemo\Package2\GetterTest.java**
+
+>Also, in VS Code -> Right Click -> Source Action to **Generate Constructor** or to **Generate toString()** method automatically. Ended todays session by practising coding challenges.
+
+> **Access Modifiers** and **Packages** are very confusing initially so take a better look at them to understand them properly. Practise various programs related to them to have clear understanding, specially the **default or package-private** access modifier.
+_______________________________
