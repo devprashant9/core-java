@@ -1,0 +1,1 @@
+Make everything private and use getter and setter methods to get and update value

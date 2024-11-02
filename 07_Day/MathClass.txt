@@ -1,0 +1,17 @@
+
+    Math methods are static methods and are accessed directly
+    Includes PI, E for pie and the base of natural logarithms
+
+Important Methods:
+
+1. abs(): returns absolute value
+2. ceil(): rounds up
+3. floor(): rounds down
+4. round(): rounds to nearest integer
+5. max(): maximum of two numbers
+6. mmin(): minimum of two numbers
+7. pow(): calculates a raised to b
+8. sqrt(): calculates square root
+9. random(): generates random numbers
+10. exp(), log(): exponentiation and logarithmic functions
+

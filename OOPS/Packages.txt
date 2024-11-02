@@ -1,0 +1,24 @@
+
+
+    Packages in Java
+        Packages are used to remove name conflict in Java
+        Packages are nothing but a folder
+        Different packages can have same class name
+        Duplicate class name cannot exist in same packages
+        Package name should be unique in the world like domain name.
+        Standard for writing package name is domain name in reverse
+            in.example.yourpackagename1;
+                Package.java
+            in.example.yourpackagename2;
+                Package.java
+        
+        Fully qualified name of package 2 is "in.example.yourpackagename2.Package"
+    
+    1. Packages in Java are namespace that organizes classes and interfaces to prevent naming conflicts
+    2. Declared using package keyword
+    3. Used using import keyword
+    4. Single import and on demand import
+    5. Helps in avoiding naming collisions
+    6. Java comes with a built inpackage java.lang
+
+    System.in is imported from java.lang package

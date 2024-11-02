@@ -1,0 +1,8 @@
+
+    String Buffer vs String Builder
+
+    strings                                            String Builder                                 String Buffer
+    immutable                                          mutable                                        mutable
+    constant Pool                                      Heap                                           Heap
+    not used in threaded environments (immutable)      no thread safe, used in single threaded        thread safe, used in multi-threaded
+    slowest                                            fastest                                        faster than string, slower than string builder

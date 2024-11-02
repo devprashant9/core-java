@@ -1,0 +1,19 @@
+
+String is an object
+String don't need to be instantiated
+
+    Ques: How can we concatenate 2 objects using + operator
+    Ques: Why it does not need instantiation
+
+Strings are declared in a Heap Memory area named "String Pool"
+Strings are Immutable
+Strings are comapred using equals() method and comparing it with "==" will compare the reference address of the strings.
+The equals() method is present to all the objects by default
+Concatening strings consumes more memory as strings are immutable
+
+String Formatting:
+    just like C Language
+    System.out.println("Hello, " + name + " your marks is " + marks);
+    System.out.printf("Hello, %s your marks is: %d" + name, marks);
+
+    Syntax: % [flags] [width] [.precision] specifier-character

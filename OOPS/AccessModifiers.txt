@@ -1,0 +1,10 @@
+
+Access Modifiers
+    1. public: allows from any other class mainly packages
+    2. private: access only within the class
+    3. protected: within same package and sub class
+    4. default: no modifier and access only within the package
+
+Used by variables, methods, classes
+
+class cannot be private or protected

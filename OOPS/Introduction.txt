@@ -1,0 +1,7 @@
+Introduction to Object Oriented Programming
+
+    1. Encapsulation: Exposed Only t o Selected Info
+    2. Abstraction: Hide Complex Details to Reduce Complexity
+    3. Inheritence: Inheriting Attributes From Other Entities
+    4. Polymorphism: Entities Can Have More Than One Form
+

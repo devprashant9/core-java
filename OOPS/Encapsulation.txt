@@ -1,0 +1,8 @@
+
+Encapsulation in Java
+    1. Hides internal data, allowing access only through methods
+    2. Uses public, private, protected to control access to class members
+    3. Provides public methods for controlled property access through getters and setters
+    4. Protects objects state from external interference
+    5. Keeps classes seperate and reduces coupling
+
