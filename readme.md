@@ -101,3 +101,7 @@ And, finally to **getter and setter methods** to end Encapsulation.
 
 > **Access Modifiers** and **Packages** are very confusing initially so take a better look at them to understand them properly. Practise various programs related to them to have clear understanding, specially the **default or package-private** access modifier.
 _______________________________
+
+_______________________________
+## Day 8 (03/11-2024) and Day 9 (04/11-2024)
+Updating this file after 2 days because both these days were completely focused on OOPs concept and made my own notes because there was a lot of things to cover, literally a lot. Almost, did not implementation of any theory topic because one was associated with the other so it was necessary to undersatnd the flow first. No majority of the theory concepts are clear and I have my own proper notes written in my own language that makes it simple to revise. So I will watch the tutorial again but this time I will focus only on implementation of the topics to get a more better clarity of OOPs concept and associated topics with it.
