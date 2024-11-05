@@ -105,3 +105,12 @@ _______________________________
 _______________________________
 ## Day 8 (03/11-2024) and Day 9 (04/11-2024)
 Updating this file after 2 days because both these days were completely focused on OOPs concept and made my own notes because there was a lot of things to cover, literally a lot. Almost, did not implementation of any theory topic because one was associated with the other so it was necessary to undersatnd the flow first. No majority of the theory concepts are clear and I have my own proper notes written in my own language that makes it simple to revise. So I will watch the tutorial again but this time I will focus only on implementation of the topics to get a more better clarity of OOPs concept and associated topics with it.
+
+
+___________________________
+## Day 10 (05/11-2024)
+Today was nothing just as such special and started day by practising implementation of OOPs concepts again in which first was the **Encapsulation** about which I am completely aware that **what it does** and **how it does** but after from practsising I also read blogs of Geek websites like what they have written extra so that I don't even miss a point. As of current the main topics covered in the video were:
+
+- packages and import
+- access modifiers
+- getters and setters
