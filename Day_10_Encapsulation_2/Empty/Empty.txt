@@ -1,0 +1,1 @@
+Some text as git dont track empty files anless its .gitkeep
