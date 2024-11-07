@@ -114,3 +114,23 @@ Today was nothing just as such special and started day by practising implementat
 - packages and import
 - access modifiers
 - getters and setters
+
+________________
+## Day 11 (06/11-2024)
+**Unfortunately HOLIDAY** 😒🤦‍♂️😫😥😪😓😔😕🫤☹️🙁😖😞😞😭😤😮‍💨🤯😩😨
+
+_________________
+## Day 12 (07/11-2024)
+Today my target was to cover 2 more OOPs concept **Inheritence and Abstraction**, and within first 2 hours **Inheritence** was completely understood and it took almost an hour to complete the **Abstraction**. The main sub topics included:
+- Parent and Child Relationship (Key Concept of Inheritence)
+- Use of **protected** keyword to increase visibility of parent class members
+- The **Object** class
+- **Equals and Hash**
+- Overview of Nested class and Inner class
+
+Next we moved on to **Abstraction** which became absolutely easy after understanding **Encapsulation and Inheritence**. The followings were the main sub topics included:
+- Introduction to Abstraction
+- Difference Between Encapsulation and Inheritence
+- The **abstract** Keyword
+- **Interfaces**
+- How Multiple Inheritence is Supported by Interfaces
