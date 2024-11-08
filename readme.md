@@ -134,3 +134,18 @@ Next we moved on to **Abstraction** which became absolutely easy after understan
 - The **abstract** Keyword
 - **Interfaces**
 - How Multiple Inheritence is Supported by Interfaces
+
+______________________
+## Day 13 (08/11-2024)
+Final day on OOPs Concept. Today is the 5th day of covering OOPs concept and our topic is **Polymorphism**. See it's quite a long time I know bu the thing is I have invested so much time, so that it remains unforgettable from now onwars. It should be like just a quick recap of 10 minutes and I am able to recall each and every concept. If I am learning something in 1 hour and forgetting it within 3 days then on the fourth day I need to study it thoroughly again, which shouldn't be the case of mine because I am in final year of my MCA so and less than 5 months are remaining.
+
+Topics in **Polymorphism** were as follows:
+- Introduction to Inheritence
+- Upcasting and Downcasting (**Confusing**)
+- Method **Overloading** and Constructor Overloading
+- Method Overiding and Constructor **Overriding**
+- The **super** Keyword
+- The **final** Keyword for **methods and class**
+- Pass by Value and Pass By Reference
+
+That was the end of todays session. All OOPs concept covered with 100 per-cent clarity and it will always be in my head.
