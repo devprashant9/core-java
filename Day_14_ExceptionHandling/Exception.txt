@@ -1,0 +1,39 @@
+
+    What is Exception in Java
+    Disruptive event occurs during execution of program, that interrupts normal flow of the program.
+    Exception are objects in Java
+
+        Hirerachy of Class
+
+        1. Object
+            2. Throwable (Interface)
+                2.1 Error (Child)                  2.2 Exception (Child)
+                    2.1.1 Unchecked               2.2.1 Run-Time        2.2.2 Compile-Time
+
+
+Error: These includes problem that rae not caused by programmers or their code logic susch as system out of memory or storage is full.
+
+Exception: These are the problem that occurs because of the code logic
+
+Compile-Time: When it is already known that the particular piece of code might throw an excaption then it becomes necessary to handle it and can't be ignored.
+
+Run-Time: When you know that a piece of code might throw error but not always
+
+
+    The try-catch block
+    1. try contains the code that might throw error
+    2. catch helps us not to throw exception directly rather handle it with some feedback. It always follows the try block.
+    3. there can be multiple catch blocks but the hirerachy of catching exception should be specific to general.
+    4. catch might not handle an exception which is not defined or not handled like general exception
+
+
+Types of Exception
+    1. User Defined Exception
+    2. Built-in Exceptions
+        i. Checked Exception: Must be Handled Explicitly
+        ii. Unchecked Exceptions: Optional to Handle
+
+
+The throws vs throw keywords
+
+The Finally block: Always executes no matter what problem arises. Ideal for closing resources.
