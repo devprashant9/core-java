@@ -149,3 +149,20 @@ Topics in **Polymorphism** were as follows:
 - Pass by Value and Pass By Reference
 
 That was the end of todays session. All OOPs concept covered with 100 per-cent clarity and it will always be in my head.
+
+______________________
+## Day 14 (09/11-2024)
+Unit 9: New day ne topic it was i.e. **Exception Handling** in java and why it needs to be done so that the program maintains consistencey. The main topic included:
+- Exception is a Object. Throwable is also Object.
+- Hierarchy of the Exception object and types
+- try-catch block
+- multiple catch blocks
+- excaption should be catched from more specific to genral
+- Built-in Excaption and User Defined Exception
+- Difference between **throw** and **throws** keyword
+- The **finally** block
+- Custom Exceptions
+
+Unit 9: Next our topic was **File Handling** in Java.
+- FileReaderand FileWriter class
+- try-ctach with resource
