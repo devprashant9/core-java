@@ -166,3 +166,31 @@ Unit 9: New day ne topic it was i.e. **Exception Handling** in java and why it n
 Unit 9: Next our topic was **File Handling** in Java.
 - FileReaderand FileWriter class
 - try-ctach with resource
+
+______________________
+## Day 15 (10/11-2024)
+Unit 10: Today, completed **Collections Library** in java and various types of **interfaces** that it contains. So, mainly it is of two parts, the first is **Collection Library** and the second part is **Map Interface**. Map Interface is totally a seperate things and does not implements **Collection Class** but it is a part of **collection** library. The main topics included:
+
+- Collection
+  - List (Interface)
+    - ArrayList
+    - Vector
+    - LinkedList
+  - Queue (Interface)
+    - LinkedList
+    - Priority Queue
+  - Set (Interface)
+    - HashSet
+    - LinkedHashSet
+    - SortedSet (Interface Implements Set)
+      - TreeSet 
+
+  - Map (Interface)
+    - HashTable
+    - HashMap
+    - SortedMap (Interface Implements Map)
+      - TreeMap
+
+So, all these topics were covered almost 3 times with implementation so that I could get proper understanding, It is quite easy and no such rocket Science. After this there were a few more topics that makes our work easy. They were:
+- Collections Class: Contains methods which can be directly implemented on **collection**.
+- Generics and Diamond Operator
