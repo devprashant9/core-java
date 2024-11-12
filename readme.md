@@ -194,3 +194,14 @@ Unit 10: Today, completed **Collections Library** in java and various types of *
 So, all these topics were covered almost 3 times with implementation so that I could get proper understanding, It is quite easy and no such rocket Science. After this there were a few more topics that makes our work easy. They were:
 - Collections Class: Contains methods which can be directly implemented on **collection**.
 - Generics and Diamond Operator
+
+________________________
+## Day 16 (12/11-2024)
+Unit 11: It was all about **Multithreading** and why there is a need and how to implement it. The main things included in the topic was:
+- Creating **Thread** by entending **Thread Class**
+- Creating **Thread** by implementing **Runnable** interface
+- States of a thread
+- Thread Priority
+- The **join()** method
+- Importane of **synchronize** keyword
+- Thread communication
