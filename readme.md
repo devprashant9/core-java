@@ -205,3 +205,13 @@ Unit 11: It was all about **Multithreading** and why there is a need and how to 
 - The **join()** method
 - Importane of **synchronize** keyword
 - Thread communication
+
+_____________________________
+## Day 17 (13/11-2024)
+Unit 11: Today I learned about **ExecutorServices** in Java and **Returning Futures**. The main job of **ExecutorService** to overcome the problems that were happening in **MultiThreading** so that just by increasing or decreasing number of threads we can get our task done in parallel. It does not kill threads unless specified. Also, when we cant some **result** from **threads** after completion of some task then we use **futures** by implementing **Callable**, just like **promise in javascript**. The main sub topics included:
+- What is Executor Service and How it Works
+- Creating Single Thread Using Executor Service
+- Creating Multiple Thread Using Executor Service
+- Returning Futures
+
+___________________________________________
