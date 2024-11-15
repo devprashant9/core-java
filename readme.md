@@ -215,3 +215,24 @@ Unit 11: Today I learned about **ExecutorServices** in Java and **Returning Futu
 - Returning Futures
 
 ___________________________________________
+
+___________________________________________
+## (14/11-2024)
+**HoliDay**
+
+_____________________________
+## Day 18 (15/11-2024)
+Unit 12: **Functional Programming** in Java. You can say it as **Modern Java** because it contains a lot of new concepts which are highly important or you can also say these are some new concepts which are not well known by everyone. The main topics included:
+- Lambda Expression
+- Streams in Java
+- Filter and Reduce
+- Functional Interfaces
+- Method Reference (Confusing)
+- Optional Class
+- Intermediate Operations
+- Terminal Operations; Eg: sorted(), distinct(), map()
+
+___________________**Finally Ended 99**% 🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳
+
+> **What is Next:** Well the next task it to complete all the **Challenges Questions** again as revision and finally it will be completed **100**%. That will mark an **COMPLETE END OF THIS TUTORIAL**
+___________________________________________________________________
