@@ -236,3 +236,5 @@ ___________________**Finally Ended 99**% 🥳🥳🥳🥳🥳🥳🥳🥳🥳�
 
 > **What is Next:** Well the next task it to complete all the **Challenges Questions** again as revision and finally it will be completed **100**%. That will mark an **COMPLETE END OF THIS TUTORIAL**
 ___________________________________________________________________
+## Day 19 (20/11-2024)
+**Important Note**: Will resume this after my 3rd semester exams. By this time I will be practising stuffs but will not commit or push anything on github. Resume Date: **8-12-2024**.
